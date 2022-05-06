@@ -7,6 +7,7 @@ You can install the package with composer:
     composer require renaldy/php-fpgrowth
 
 ## Usage
+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
 
 #### Example
 
